@@ -1,1 +1,3 @@
-# Vibe-matcher
+Why AI at Nexora?
+
+I believe AI at Nexora can transform how people discover fashion that truly resonates with their personal style. Traditional search just matches keywords, but it misses the emotional connection people have with clothing - that gut feeling when an outfit just "clicks" with your vibe. With AI, we can understand those subtle style preferences and match them with products that share the same aesthetic essence. It's like having a personal stylist who just gets you, creating shopping experiences that feel intuitive and personal rather than algorithmic and cold. That's the future I want to build at Nexora.
